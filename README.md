@@ -1,2 +1,0 @@
-# Algotraj-
-Algorithm trajectory correction 
